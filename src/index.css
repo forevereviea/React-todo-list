@@ -1,4 +1,10 @@
 body {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='2900' height='2000' preserveAspectRatio='none' viewBox='0 0 2900 2000'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1397%26quot%3b)' fill='none'%3e%3crect width='2900' height='2000' x='0' y='0' fill='url(%23SvgjsLinearGradient1398)'%3e%3c/rect%3e%3cpath d='M 0%2c768 C 193.4%2c707.2 580.2%2c484.6 967%2c464 C 1353.8%2c443.4 1547.4%2c721.6 1934%2c665 C 2320.6%2c608.4 2706.8%2c277.8 2900%2c181L2900 2000L0 2000z' fill='rgba(239%2c 131%2c 139%2c 1)'%3e%3c/path%3e%3cpath d='M 0%2c1141 C 290%2c1288.4 870%2c1823.6 1450%2c1878 C 2030%2c1932.4 2610%2c1506 2900%2c1413L2900 2000L0 2000z' fill='rgba(118%2c 3%2c 125%2c 0.14)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1397'%3e%3crect width='2900' height='2000' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='50%25' y1='100%25' x2='50%25' y2='0%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1398'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(177%2c 174%2c 230%2c 1)' offset='0.92'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

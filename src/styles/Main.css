@@ -1,0 +1,35 @@
+
+.columnColor{
+    color: black;
+}
+.projectCards{
+    margin-top: 5px;
+ background-color: #FFFF;
+  overflow-y: scroll;
+}
+.cardBodyText{
+    margin-bottom: 6%;
+    color: grey;
+    
+}
+.saveChanges{
+    margin-top: 7%;
+    color: red !important;
+}
+.inputHeader{
+    margin-bottom: 2%;
+}
+.calendar{
+    background-color: #FFFF;
+}
+.priority{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.lowP{
+    color: purple !important;
+}
+.projectCards{
+    margin-bottom: 6% !important;
+    margin-left: 5% !important;
+}
